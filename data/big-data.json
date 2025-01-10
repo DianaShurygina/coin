@@ -1,0 +1,101 @@
+{
+  "ru": {
+    "profile": {
+      "name": "Диана Шурыгина",
+      "description": "Та самая Диана Шурыгина. Подписывайся, со мной не заскучаешь!",
+      "photo": "/images/social-icons/profile.jpg",
+      "headerBackground": "/images/social-icons/header.jpg"
+    },
+    "modelLinks": {
+      "favoriteLinks": [
+        {
+          "name": "Telegram Eng",
+          "icon": "/images/social-icons/telegram.webp",
+          "url": "https://t.me/eng_channel"
+        },
+        {
+          "name": "Telegram Chat",
+          "icon": "/images/social-icons/telegram.webp",
+          "url": "https://t.me/chat"
+        }
+      ],
+      "socialLinks": [
+        {
+          "name": "Instagram",
+          "icon": "/images/social-icons/instagram.webp",
+          "url": "https://instagram.com/"
+        },
+        {
+          "name": "YouTube",
+          "icon": "/images/social-icons/youtube.webp",
+          "url": "https://youtube.com/"
+        }
+      ]
+    },
+    "tokenLinks": {
+      "favoriteLinks": [
+        {
+          "name": "Token 1",
+          "icon": "/images/social-icons/token1.webp",
+          "url": "https://token1.com"
+        }
+      ],
+      "socialLinks": [
+        {
+          "name": "Token 2",
+          "icon": "/images/social-icons/token2.webp",
+          "url": "https://token2.com"
+        }
+      ]
+    },
+    "titles": {
+      "model": "Модели",
+      "token": "Токены"
+    }
+  },
+
+  "en": {
+    "profile": {
+      "name": "Diana Shurygina",
+      "description": "The one and only Diana Shurygina. Follow me, you won't get bored!",
+      "photo": "/images/social-icons/profile.jpg",
+      "headerBackground": "/images/social-icons/header.jpg"
+    },
+    "modelLinks": {
+      "favoriteLinks": [
+        {
+          "name": "Telegram Eng",
+          "icon": "/images/social-icons/telegram.webp",
+          "url": "https://t.me/eng_channel"
+        }
+      ],
+      "socialLinks": [
+        {
+          "name": "Instagram",
+          "icon": "/images/social-icons/instagram.webp",
+          "url": "https://instagram.com/"
+        }
+      ]
+    },
+    "tokenLinks": {
+      "favoriteLinks": [
+        {
+          "name": "Token 1",
+          "icon": "/images/social-icons/token1.webp",
+          "url": "https://token1.com"
+        }
+      ],
+      "socialLinks": [
+        {
+          "name": "Token 2",
+          "icon": "/images/social-icons/token2.webp",
+          "url": "https://token2.com"
+        }
+      ]
+    },
+    "titles": {
+      "model": "Models",
+      "token": "Tokens"
+    }
+  }
+}

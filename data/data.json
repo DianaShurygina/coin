@@ -1,0 +1,133 @@
+{
+  "ru": {
+    "profile": {
+      "name": "Diana Shurygina",
+      "description": "The one and only Diana Shurygina. Follow me, you won't get bored!",
+      "photo": "/images/profile.JPG",
+      "headerBackground": "/images/header.png"
+    },
+    "modelLinks": {
+      "favoriteLinks": [
+        {
+          "name": "Exclusive Content 🍓",
+          "text": "Only the coolest content just for you in my bot! 🚀",
+          "icon": "/images/shura-bot.webp",
+          "url": "https://t.me/DianaTonPlaceBot"
+        },
+        {
+          "name": "Telegram Channel",
+          "icon": "/images/social-icons/telegram.webp",
+          "url": "https://t.me/Di_DianaShurygina"
+        },
+        {
+          "name": "Telegram Channel (RU)",
+          "icon": "/images/social-icons/telegram.webp",
+          "url": "https://t.me/DianaShuryginas"
+        },
+        {
+          "name": "Telegram Chat",
+          "icon": "/images/social-icons/telegram.webp",
+          "url": "https://t.me/DianaShuryginaChat"
+        }
+      ],
+      "socialLinks": [
+        {
+          "name": "Instagram",
+          "icon": "/images/social-icons/instagram.webp",
+          "url": "https://www.instagram.com/diana_shlianina.s/"
+        },
+        {
+          "name": "TikTok",
+          "icon": "/images/social-icons/tiktok.webp",
+          "url": "https://www.tiktok.com/@shurygina_vlog"
+        },
+        {
+          "name": "Twitter (X)",
+          "icon": "/images/social-icons/x.webp",
+          "url": "https://x.com/DianaShyriginas"
+        },
+        {
+          "name": "VK",
+          "icon": "/images/social-icons/vk.webp",
+          "url": "https://vk.com/shurygina_vlog"
+        },
+        {
+          "name": "Facebook",
+          "icon": "/images/social-icons/facebook.webp",
+          "url": "https://www.facebook.com/dianashuryginas"
+        },
+        {
+          "name": "Youtube",
+          "icon": "/images/social-icons/youtube.webp",
+          "url": "https://www.youtube.com/@Diana_Shurygina./shorts"
+        },
+        {
+          "name": "Youtube",
+          "icon": "/images/social-icons/youtube.webp",
+          "url": "https://www.youtube.com/@Diana_Shurygina./shorts"
+        },
+        {
+          "name": "Ton.Place",
+          "icon": "/images/social-icons/tonplace.webp",
+          "url": "https://www.youtube.com/@Diana_Shurygina./shorts"
+        },
+        {
+          "name": "Pornhub",
+          "icon": "/images/social-icons/p-hub.webp",
+          "url": "https://www.pornhub.org/model/dianashurygina"
+        },
+        {
+          "name": "Fansly",
+          "icon": "/images/social-icons/fansly.webp",
+          "url": "https://fans.ly/r/shurygina"
+        },
+        {
+          "name": "Patreon",
+          "icon": "/images/social-icons/patreon.webp",
+          "url": "https://www.patreon.com/dianashurygina"
+        },
+        {
+          "name": "Threads",
+          "icon": "/images/social-icons/threads.webp",
+          "url": "https://www.threads.net/@diana_s_life2"
+        }
+      ]
+    },
+    "tokenLinks": {
+      "favoriteLinks": [
+        {
+          "name": "Launchpad Blum",
+          "icon": "/images/social-icons/blum.webp",
+          "url": "https://t.me/blum/app?startapp=memepadjetton_DIANA_JMsOk-ref_kHjGPieMZD"
+        },
+        {
+          "name": "Token Diana",
+          "icon": "/images/social-icons/telegram.webp",
+          "url": "https://t.me/DianaCommunity"
+        },
+        {
+          "name": "Telegram Life",
+          "icon": "/images/social-icons/telegram.webp",
+          "url": "https://t.me/ShuryginaTON"
+        }
+      ],
+      "socialLinks": [
+        {
+          "name": "Instagram Life",
+          "icon": "/images/social-icons/instagram.webp",
+          "url": "https://www.instagram.com/diana_s_life2/"
+        },
+        {
+          "name": "Twitter (X)",
+          "icon": "/images/social-icons/x.webp",
+          "url": "https://x.com/DianaShyriginas"
+        },
+        {
+          "name": "GitHub",
+          "icon": "/images/social-icons/github.webp",
+          "url": "https://github.com/dianashuryginas"
+        }
+      ]
+    }
+  }
+}
